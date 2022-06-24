@@ -1,0 +1,19 @@
+Food truck game, 
+Spinner shot to line up customers, 
+Each shot either creates a combo or finishes an order, 
+Shots for sandwich, drink, fries, vegan option, and toppings for any of those, 
+sandwich + toppings, salad + toppings, fries plus toppings, interesting combinations,
+ goal is to maximize order values, 
+some method to close up for the day or relocate, 
+some way for customer feedback to impact scores or maybe number of spins to get a new customer, 
+Mutliball for lunchtime rush 
+Mini wizard for catered party 
+Final wizard mode, parked at pub/bar 
+
+Thoughts, need to unlock toppings for things, 
+Unlocking more expensive base menu items, 
+If you close up shop without making money do you go out of business and need to fundraise, 
+Prep mode vs serving mode, 
+
+Video mode, plating meals, based one meals you’ve served item pops up on left flippers to mode it to a slot middle button to drop it/pick it up, 
+Other video mode relocate truck, google maps left/right
